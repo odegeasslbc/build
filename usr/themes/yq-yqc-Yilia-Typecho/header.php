@@ -68,7 +68,7 @@
               <nav class="header-menu">
                 <ul>
                   <li><a href="/">主页</a></li>
-                  <li><a href="/store.html">杂货铺</a></li>
+                  
                 </ul>
               </nav>
               <nav class="header-nav">

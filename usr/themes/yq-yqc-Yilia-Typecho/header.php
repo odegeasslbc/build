@@ -21,7 +21,7 @@
     <div class="intrude-less">
       <header id="header" class="inner">
         <div class="profilepic">
-          <img src="<?php $this->options->themeUrl();?>images/tx.jpg">
+          <img src="<?php $this->options->themeUrl();?>css/images/tx.jpg">
         </div>
 
         <hgroup>

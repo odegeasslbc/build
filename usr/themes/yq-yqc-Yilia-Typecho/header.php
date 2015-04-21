@@ -73,8 +73,8 @@
               </nav>
               <nav class="header-nav">
                 <div class="social">
-                  <a class="github" target="_blank" href="https://github.com/sailor103" title="github">github</a>
-                  <a class="weibo" target="_blank" href="http://weibo.com/sailor521" title="weibo">weibo</a>
+                  <a class="github" target="_blank" href="https://github.com/odegeasslbc" title="github">github</a>
+                  <a class="weibo" target="_blank" href="http://www.weibo.com/2805335451/profile?topnav=1&wvr=6" title="weibo">weibo</a>
                   <a class="rss" target="_blank" href="<?php $this->options->feedUrl();?>" title="rss">rss</a>
                   <a class="isear" href="javascript:void(0);" title="search">search</a>
                 </div>
@@ -90,7 +90,7 @@
               <a target="_blank" class="main-nav-link switch-friends-link" href="http://malagis.com/">麻辣GIS</a>
             </section>
             <section class="switch-part switch-part4">
-              尹全超，江湖人称老二，80末90初的第一代人。<a href="http://malagis.com" target="_blank" >麻辣GIS</a>站长，<a href="http://pointstone.org" target="_blank">点石</a>成员，目前研究生在读，个人主页：<a href="http://yqc.im" target="_blank">yqc.im</a>，联系QQ：61817708
+              Bruce，学名刘炳辰，九三年男。幼云游四方，包揽群书，自命不凡。年三七，访美利坚，拜网络编程之技，通移动互联之识。前途漫漫，志存高远，必将上下求索，不忘初心。
             </section>
           </div>
         </div>

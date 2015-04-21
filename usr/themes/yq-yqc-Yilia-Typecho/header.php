@@ -31,7 +31,7 @@
         <p class="header-subtitle"><?php $this->options->description() ?></p>
         <!--搜索框-->
         <form method="post" id="searchform" action="<?php $this->options->siteUrl(); ?>">
-        <input type="text" id="sear_txt" value="" name="s" placeholder="Enter键搜索"/>
+        <input type="text" id="sear_txt" value="" name="s" placeholder="                         Enter键搜索"/>
         </form>
         <div class="switch-btn">
           <div class="icon">
@@ -86,15 +86,10 @@
               </div>
             </section>
             <section class="switch-part switch-part3">
-              <a target="_blank" class="main-nav-link switch-friends-link" href="http://www.wumen.cn/">吾们</a>
-              <a target="_blank" class="main-nav-link switch-friends-link" href="http://malagis.com/">麻辣GIS</a>
+              尚无
             </section>
             <section class="switch-part switch-part4">
-<<<<<<< HEAD
                Bruce，学名刘炳辰，九零年初男士。自幼自命不凡，云游四方，饱览群书。年三七时，访西方，拜网络编程之技，通移动互联之识。前途漫漫，志存高远，上下求索，誓不泯初心。
-=======
-              Bruce，学名刘炳辰，九三年男。幼云游四方，包揽群书，自命不凡。年三七，访美利坚，拜网络编程之技，通移动互联之识。前途漫漫，志存高远，必将上下求索，不忘初心。
->>>>>>> FETCH_HEAD
             </section>
           </div>
         </div>
@@ -118,7 +113,6 @@
           <nav class="header-menu">
             <ul>
               <li><a href="/">主页</a></li>
-              <li><a href="/store.html">杂货铺</a></li>
               <div class="clearfix"></div>
             </ul>
           </nav>
